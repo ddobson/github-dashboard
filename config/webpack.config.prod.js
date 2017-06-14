@@ -137,7 +137,6 @@ module.exports = {
             loader: 'sass-loader', // compiles Sass to CSS
           }],
         }),
-        fallback: 'style-loader',
       },
       // ** ADDING/UPDATING LOADERS **
       // The "file" loader handles all assets unless explicitly excluded.
